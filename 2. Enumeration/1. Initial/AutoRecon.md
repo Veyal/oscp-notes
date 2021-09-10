@@ -23,3 +23,10 @@ git clone https://github.com/Tib3rius/AutoRecon
 ```console
 pip install -r requirements.txt
 ```
+
+
+## How to Use
+
+```console
+python3 autorecon.py -ct 4 -cs x.x.x.x
+```
